@@ -1,4 +1,4 @@
-# Base de código de uma Aplicação Web Django com PostgreSQL em Docker
+# Aplicação Web Django Genérica com PostgreSQL em Docker
 
 ## Inicializar ambiente
 > docker-compose up <br>
